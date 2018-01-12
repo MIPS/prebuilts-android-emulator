@@ -10,7 +10,7 @@
   <project name="platform/external/gtest" path="external/gtest" revision="26a684189fde027536f4e2cfd3f17ef899c452fc"/>
   <project name="platform/external/libyuv" path="external/libyuv" revision="b189caf1d7013dfa3154c36535f1dc1792f35609"/>
   <project name="platform/external/protobuf" path="external/protobuf" revision="4353bbc88f513a3c8863cc5b30e765dd5530faa1"/>
-  <project name="platform/external/qemu" path="external/qemu" revision="ef884234cf3a05a8f0fe4483106acedff16f37d1"/>
+  <project name="platform/external/qemu" path="external/qemu" revision="ce16606af02c85f43efca1facb51c2eb1fb41e08"/>
   <project name="platform/external/tinyobjloader" path="external/tinyobjloader" revision="d16a940067fbc191364fc1d3e2a2d907209c9320"/>
   <project name="platform/frameworks/native" path="frameworks/native" revision="9094ee238458bf1e8a9e8335fd824acc4963d7f4"/>
   <project name="platform/prebuilts/android-emulator" path="prebuilts/android-emulator" revision="fb26612eb84576adb974fe7f18a49d263072116f"/>
